@@ -10,46 +10,46 @@ function Home() {
                 
                 <div className="home__row">
                     <Product 
-                        title="The lean starup"
-                        price="99.99"
+                        title="AmazonBasics 35.5L Storage Bench Ottoman Light Grey"
+                        price="94.52"
                         rating={5}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        image="https://m.media-amazon.com/images/I/816E+Kkm7VL._AC_UL320_.jpg"
                     />
                     <Product 
-                        title="The lean starup"
-                        price="15.33"
-                        rating={3}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                    />
-                </div>
-
-                <div className="home__row">
-                    <Product 
-                        title="The lean starup"
-                        price="10.99"
+                        title="AmazonBasics Light-Weight Microfiber Duvet Cover Set with Snap Buttons - Full/Queen, Grey Crosshatch"
+                        price="23.99"
                         rating={4}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                    />
-                    <Product 
-                        title="The lean starup"
-                        price="12.99"
-                        rating={3}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                    />
-                    <Product 
-                        title="The lean starup"
-                        price="11,8"
-                        rating={2}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        image="https://m.media-amazon.com/images/I/91jeqvAyUML._AC_UL320_.jpg"
                     />
                 </div>
 
                 <div className="home__row">
                     <Product 
-                        title="The lean starup"
+                        title="AmazonBasics Stainless Steel Portable Fast, Electric Hot Water Kettle for Tea and Coffee, 1 Liter, Silver"
+                        price="21.99"
+                        rating={4}
+                        image="https://m.media-amazon.com/images/I/91oiSVwU7OL._AC_UL320_.jpg"
+                    />
+                    <Product 
+                        title="AmazonBasics Silicone, Non-Stick, Food Safe Baking Mat - Pack of 2"
+                        price="13.99"
+                        rating={3}
+                        image="https://m.media-amazon.com/images/I/81IC5+bWDgL._AC_UL320_.jpg"
+                    />
+                    <Product 
+                        title="AmazonBasics Enameled Cast Iron Dutch Oven - 6-Quart, Grey"
                         price="44.99"
-                        rating={1}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        rating={4}
+                        image="https://m.media-amazon.com/images/I/818BtMx1D2L._AC_UL320_.jpg"
+                    />
+                </div>
+
+                <div className="home__row">
+                    <Product 
+                        title="Hisense 32-Inch 32H5500F Class H55 Series Android Smart TV with Voice Remote (2020 Model)"
+                        price="139.99"
+                        rating={5}
+                        image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
                     />
                 </div>
             
